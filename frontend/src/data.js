@@ -7,7 +7,7 @@ export const portfolioData = {
     socials: {
       linkedin: "https://linkedin.com/in/priya-gayen-216a0032b",
       github: "https://github.com/PriyaGayen",
-      leetcode: "https://leetcode.com/u//",
+      leetcode: "https://leetcode.com/u/priyagayen74/",
       resumeUrl: "/resume.pdf",
     },
   },
